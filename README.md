@@ -93,21 +93,18 @@ Lectures: Wednesdays 08:45-10:45. Guided self-study: Wednesdays 10:45-12:45.
 
 ## Project Work
 
-You will work in groups of five. Each group is randomly assigned to one of two
-project topics:
-
-1. Medical imaging;
-2. Molecular data analysis.
+You will work in groups of five on the medical-imaging project. Each group
+chooses a focused research question within the project and builds and evaluates
+a small AI system or analysis to answer it.
 
 Deliverables are a one-page poster and code. Together, these count for **15%**
 of the final grade. The written exam also contains group-specific project
 questions, which may ask about methods, implementation details, or code. The
 project-specific questions are an additional **15%** of the final grade.
 
-Project descriptions:
+Project description:
 
-- [`projects/medical-imaging.md`](projects/medical-imaging.md)
-- [`projects/molecular-data.md`](projects/molecular-data.md)
+- [`project/medical-imaging.md`](project/medical-imaging.md)
 
 ## Assessment
 
