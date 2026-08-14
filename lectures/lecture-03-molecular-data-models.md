@@ -89,9 +89,9 @@ assumptions.
 
 ### Measurement versus biological state
 
-An expression profile is a measurement of a biological system, not the
-biological state itself. Ask what sources of technical and biological variation
-the model represents, removes, or ignores.
+Gene-expression measurements provide a noisy and partial view of a cell's biological state.
+Models therefore need to distinguish biologically meaningful variation from
+technical variation introduced by the measurement process.
 
 ### Representation versus prediction
 
