@@ -6,6 +6,19 @@ This lecture assumes basic knowledge of medical imaging and machine learning.
 We will focus on what changes methodologically when medical vision models move
 from task-specific systems to foundation vision models and vision-languge models.
 
+## Learning Outcomes
+
+After this lecture, you will be able to:
+
+- Explain the progression from task-specific vision models to self-supervised
+  foundation models and vision-language models;
+- Distinguish image-only, contrastive image-text, and generative
+  vision-language models by representation, objective, and output;
+- Compare the general and biomedical model pairs covered by the required
+  papers;
+- Critique their evaluation, biomedical validation, limitations, and workflow
+  relevance.
+
 ## Assumed Background
 
 The lecture will build on the topics below. If some of them are not familiar,

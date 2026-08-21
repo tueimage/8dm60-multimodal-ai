@@ -137,9 +137,9 @@ We will compare:
 
 
 <!--
-We will close by tracing one deployed tool end-to-end through all nine
-dimensions of the analytical framework, with emphasis on dimensions 7-9, and
-a design exercise: integrating a grading or triage model into a specific
-clinical pathway, specifying data flow, integration pattern, validation plan,
-failure modes, and mitigations.
+We will close by tracing one deployed tool end-to-end from its clinical problem
+and data flow through integration, validation, monitoring, and governance. A
+design exercise will ask students to integrate a grading or triage model into a
+specific clinical pathway, specifying data flow, integration pattern,
+validation plan, failure modes, and mitigations.
 -->
