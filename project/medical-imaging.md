@@ -87,12 +87,38 @@ The project should be feasible on a single 2080 Ti GPU. Use frozen pretrained
 encoders, lightweight adaptation, small batches, or subset-based evaluation
 when needed.
 
-## Deliverables
+## Canvas Assignments
 
-Submit:
+### Define research topic/question for the project work
 
-1. A one-page poster.
-2. Code that reproduces the main results or figures.
+- **Due:** 11 September 2026 at 23:59;
+- **Points:** 0;
+- **Submission:** one file upload in `.doc`, `.pdf`, or `.md` format;
+- **Available to:** everyone.
+
+Submit up to 400 words describing the research topic or research question that
+you want to address with the project work. Optional figures and references do
+not count toward the 400-word limit.
+
+### Project work
+
+- **Due:** 14 October 2026;
+- **Points:** 15;
+- **Submission:** one `.zip` file upload;
+- **Available to:** everyone.
+
+Submit one ZIP archive containing the one-page poster in PDF format and the
+documented code needed to fully reproduce the experiments. The supplied
+deadline does not specify a time; consult Canvas for any additional deadline
+details.
+
+## Final Deliverables
+
+The Project work ZIP archive must contain:
+
+1. A one-page poster in PDF format.
+2. Documented code that fully reproduces the experiments, including the main
+   results or figures.
 
 The poster/report must be self-contained. It should include the research
 question, dataset, method, key design choices, baseline, main result,
