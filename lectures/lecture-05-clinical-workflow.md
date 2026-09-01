@@ -58,8 +58,8 @@ Section 1b - Validation and FAIR AI:
 
 
 MASAI trial - Mammography screening 
- Lång K, Josefsson V, et al. Interval cancer, sensitivity, and specificity comparing AI-supported mammography screening with standard double reading without AI in the MASAI study: a randomised, controlled, non-inferiority, single-blinded, population-based, screening-accuracy trial. The Lancet. 2026. DOI: 10.1016/S0140-6736(25)02464-X
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)02464-X/abstract
+Lång K, Josefsson V, Larsson AM, Larsson S, Högberg C, Sartor H, Hofvind S, Andersson I, Rosso A. Artificial intelligence-supported screen reading versus standard double reading in the Mammography Screening with Artificial Intelligence trial (MASAI): a clinical safety analysis of a randomised, controlled, non-inferiority, single-blinded, screening accuracy study. Lancet Oncol. 2023 Aug;24(8):936-944. doi: 10.1016/S1470-2045(23)00298-X. PMID: 37541274.
+https://pubmed.ncbi.nlm.nih.gov/37541274/
 
 Section 2 — The clinical workflow as a system
 

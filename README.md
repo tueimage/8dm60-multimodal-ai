@@ -12,8 +12,8 @@ given as part of the first lecture.
 The course covers:
 
 - Language models (lecturer: M. Veta);
-- Vision models (lecturer: M. Veta);;
-- Omics models (lecturer: F. Eduati);;
+- Vision models (lecturer: M. Veta);
+- Omics models (lecturer: F. Eduati);
 - Hospital data models (lecturer: F. Relouw);
 - Clinical workflow integration (lecturer: N. Stathonikos, UMC Utrecht);
 - Agentic AI (lecturer: M. Veta);
