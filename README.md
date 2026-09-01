@@ -136,3 +136,7 @@ biomedical use case.
 | [`lectures/lecture-04-hospital-data-models.md`](lectures/lecture-04-hospital-data-models.md) | Lecture 4 preparation |
 | [`lectures/lecture-05-clinical-workflow.md`](lectures/lecture-05-clinical-workflow.md) | Lecture 5 preparation |
 | [`lectures/lecture-06-agentic-ai.md`](lectures/lecture-06-agentic-ai.md) | Lecture 6 preparation |
+
+## Use of AI Tools in Course Material Preparation
+
+AI tools were used to support the preparation and editing of these materials, in accordance with TU/e policy. All content was reviewed and approved by the lecturers, who remain responsible for the final content.
