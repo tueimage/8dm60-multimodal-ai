@@ -38,7 +38,9 @@ and evaluation methodology.
 
 ### Papers
 
-1. Interpretable Machine Learning for Predicting Sepsis Risk in Emergency Triage Patients. https://www.nature.com/articles/s41598-025-85121-z
+1. A targeted real-time early warning score (TREWScore) for septic shock. https://www.researchgate.net/publication/280911361_A_targeted_real-time_early_warning_score_TREWScore_for_septic_shock
+2. Development and external validation of a multimodal artificial intelligence mortality prediction model of critically ill patients using multicenter data. https://arxiv.org/abs/2512.19716
+3. Predicting 30-day hospital readmissions using ClinicalT5 with structured and unstructured electronic health records. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328848
 
 ### Optional
 
