@@ -67,10 +67,10 @@ assumptions.
 
 ### Predicting perturbation response
 
-4. Bunne et al. **Learning single-cell perturbation responses using neural
-   optimal transport / CellOT**. *Nature Methods* (2023).  
-   [Nature Methods](https://www.nature.com/articles/s41592-023-01969-x),
-   [PubMed](https://pubmed.ncbi.nlm.nih.gov/37770709/)
+4. Lotfollahi et al. **Predicting cellular responses to complex perturbations
+   in high-throughput screens / CPA**. *Molecular Systems Biology* (2023).  
+   [Molecular Systems Biology](https://www.embopress.org/doi/full/10.15252/msb.202211517),
+   [PubMed](https://pubmed.ncbi.nlm.nih.gov/36920779/)
 
 5. Roohani et al. **Predicting transcriptional outcomes of novel multigene
    perturbations with GEARS**. *Nature Biotechnology* (2024).  
