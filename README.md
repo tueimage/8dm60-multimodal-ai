@@ -132,7 +132,7 @@ biomedical use case.
 | [`lectures/lecture-01-introduction-language-models.md`](lectures/lecture-01-introduction-language-models.md) | Lecture 1 instructions |
 | [`lectures/lecture-01-introduction-language-models/lecture-01-introduction-language-models.pdf`](lectures/lecture-01-introduction-language-models/lecture-01-introduction-language-models.pdf) | Lecture 1 slides: course outline and language models foundations |
 | [`lectures/lecture-02-vision-models.md`](lectures/lecture-02-vision-models.md) | Lecture 2 preparation |
-| [`lectures/lecture-02-vision-models/lecture-02-vision-models-discussion.pdf`](lectures/lecture-02-vision-models/lecture-02-vision-models-discussion.pdf) | Lecture 2 slides vision models|
+| [`lectures/lecture-02-vision-models/lecture-02-vision-models-discussion.pdf`](lectures/lecture-02-vision-models/lecture-02-vision-models-discussion.pdf) | Lecture 2: slides for guiding the discussion on vision models|
 | [`lectures/lecture-03-omics-models.md`](lectures/lecture-03-omics-models.md) | Lecture 3 preparation |
 | [`lectures/lecture-04-hospital-data-models.md`](lectures/lecture-04-hospital-data-models.md) | Lecture 4 preparation |
 | [`lectures/lecture-05-clinical-workflow.md`](lectures/lecture-05-clinical-workflow.md) | Lecture 5 preparation |
