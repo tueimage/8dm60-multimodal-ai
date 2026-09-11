@@ -85,6 +85,41 @@ assumptions.
    [Nature Methods](https://www.nature.com/articles/s41592-025-02772-6),
    [PubMed](https://pubmed.ncbi.nlm.nih.gov/40759747/)
 
+## Paper-specific learning objectives
+
+Use these learning objectives to guide your reading:
+
+### scVI
+After reading this paper, you should be able to:
+- Explain why scRNA-seq data require a probabilistic representation that accounts for technical variation.
+- Describe what the latent representation captures and how scVI separates biological state from factors such as library size and batch.
+
+### scGPT
+After reading this paper, you should be able to:
+- Explain how single-cell transcriptomes are represented for Transformer-based pretraining.
+- Describe what the pretraining objective is intended to learn and how the pretrained model is adapted to downstream tasks.
+
+### Kedzierska et al.
+After reading this paper, you should be able to:
+- Explain what zero-shot evaluation tests in a single-cell foundation model.
+- Critically assess whether pretrained embeddings outperform strong simpler baselines and what this implies about transferability.
+
+### CPA
+After reading this paper, you should be able to:
+- Explain how CPA separates basal cell state, perturbation, dose and covariate effects.
+- Identify which types of unseen perturbation-context combinations CPA can predict through compositional generalization.
+
+### GEARS
+After reading this paper, you should be able to:
+- Explain how GEARS uses prior gene-relationship information to predict perturbation responses.
+- Distinguish prediction of unseen perturbations from prediction of new combinations of already observed perturbations.
+
+### Ahlmann-Eltze et al.
+After reading this paper, you should be able to:
+- Explain why strong simple baselines are essential when evaluating perturbation-response models.
+- Interpret what the benchmark reveals about whether complex deep-learning models provide real predictive gains.
+
+
 ## Key Conceptual Distinctions
 
 ### Measurement versus biological state
