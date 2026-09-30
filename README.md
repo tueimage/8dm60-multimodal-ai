@@ -134,7 +134,9 @@ biomedical use case.
 | [`lectures/lecture-02-vision-models.md`](lectures/lecture-02-vision-models.md) | Lecture 2 preparation |
 | [`lectures/lecture-02-vision-models/lecture-02-vision-models-discussion.pdf`](lectures/lecture-02-vision-models/lecture-02-vision-models-discussion.pdf) | Lecture 2: slides for guiding the discussion on vision models|
 | [`lectures/lecture-03-omics-models.md`](lectures/lecture-03-omics-models.md) | Lecture 3 preparation |
+| [`lectures/lecture-03-omics-models/lecture-03-omics-models-discussion.pdf`](lectures/lecture-03-omics-models/lecture-03-omics-models-discussion.pdf) | Lecture 3: slides for guiding the discussion on omics models |
 | [`lectures/lecture-04-hospital-data-models.md`](lectures/lecture-04-hospital-data-models.md) | Lecture 4 preparation |
+| [`lectures/lecture-04-hospital-data-models/lecture-04-hospital-data-models-discussion.pdf`](lectures/lecture-04-hospital-data-models/lecture-04-hospital-data-models-discussion.pdf) | Lecture 4: slides for guiding the discussion on models for hospital data |
 | [`lectures/lecture-05-clinical-workflow.md`](lectures/lecture-05-clinical-workflow.md) | Lecture 5 preparation |
 | [`lectures/lecture-06-agentic-ai.md`](lectures/lecture-06-agentic-ai.md) | Lecture 6 preparation |
 
