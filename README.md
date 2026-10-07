@@ -138,7 +138,9 @@ biomedical use case.
 | [`lectures/lecture-04-hospital-data-models.md`](lectures/lecture-04-hospital-data-models.md) | Lecture 4 preparation |
 | [`lectures/lecture-04-hospital-data-models/lecture-04-hospital-data-models-discussion.pdf`](lectures/lecture-04-hospital-data-models/lecture-04-hospital-data-models-discussion.pdf) | Lecture 4: slides for guiding the discussion on models for hospital data |
 | [`lectures/lecture-05-clinical-workflow.md`](lectures/lecture-05-clinical-workflow.md) | Lecture 5 preparation |
+| [`lectures/lecture-05-clinical-workflow/lecture-05-clinical-workflow-present.pdf`](lectures/lecture-05-clinical-workflow/lecture-05-clinical-workflow-present.pdf) | Lecture 5 slides: clinical workflow |
 | [`lectures/lecture-06-agentic-ai.md`](lectures/lecture-06-agentic-ai.md) | Lecture 6 preparation |
+| [`lectures/lecture-06-agentic-ai/lecture-06-agentic-ai-slides.pdf`](lectures/lecture-06-agentic-ai/lecture-06-agentic-ai-slides.pdf) | Lecture 6 slides: agentic AI |
 
 ## Use of AI Tools in Course Material Preparation
 
